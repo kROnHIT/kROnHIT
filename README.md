@@ -1,5 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Rohit</h2>
-
+<h1> Hey there! I'm Rohit <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <!-- ## 👋 &nbsp;Hey there! I'm Rohit -->
 
 ### 👨🏻‍💻 &nbsp;About Me
